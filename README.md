@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **React**
 
+- 👨‍💻 Check out my portfolio @ [https://seamusmcd.com](https://seamusmcd.com)
+
 - 📫 How to reach me **contact@seamusmcd.com**
 
 <h3 align="left">Connect with me:</h3>

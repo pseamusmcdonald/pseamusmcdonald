@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seamus</h1>
-<h3 align="center">A self-taught developer specializing in the frontend.</h3>
+<h3 align="center">A self-taught developer specializing in the front end.</h3>
 
 - 💬 Ask me about **React** or **Gatsby**
 
